@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5f5761512407d54a9743f635febe341, type: 3}
+  m_Name: Example Character
+  m_EditorClassIdentifier: 
+  firstName: Tony
+  lastName: Tao
+  nativeName: 
+  nicknames: Dandan
+  Year: 0
+  Month: 1
+  Day: 1
+  height: 0
+  weight: 0
+  profilePhoto: {fileID: 0}
+  illustration: {fileID: 0}
+  bedrock: 0
+  level: 39.4
+  aType: 0
+  mStatus: 0
+  pa1Active: 1
+  pa1Levels: {x: 1, y: 1, z: 1}
+  sa11Active: 1
+  sa12Active: 1
+  sa13Active: 1
+  sa11: {fileID: 11400000, guid: 552d1c1d0424c744cb7527c2b16b5d14, type: 2}
+  sa12: {fileID: 0}
+  sa13: {fileID: 0}
+  sa1Levels: {x: 1, y: 1, z: 1}
+  pa21Active: 1
+  pa22Active: 1
+  pa23Active: 1
+  pa21: {fileID: 11400000, guid: 552d1c1d0424c744cb7527c2b16b5d14, type: 2}
+  pa22: {fileID: 11400000, guid: 552d1c1d0424c744cb7527c2b16b5d14, type: 2}
+  pa23: {fileID: 11400000, guid: 552d1c1d0424c744cb7527c2b16b5d14, type: 2}
+  pa2Levels: {x: 1, y: 1, z: 1}
+  sa21Active: 1
+  sa22Active: 1
+  sa23Active: 0
+  sa21: {fileID: 11400000, guid: 552d1c1d0424c744cb7527c2b16b5d14, type: 2}
+  sa22: {fileID: 11400000, guid: 552d1c1d0424c744cb7527c2b16b5d14, type: 2}
+  sa23: {fileID: 0}
+  sa2Levels: {x: 1, y: 1, z: 0}
+  e1Active: 1
+  essence1: {fileID: 11400000, guid: 7702b2ce2d9cc5c4caa86170b4dbfbe3, type: 2}
+  e1Level: 1
+  e2Active: 1
+  essence2: {fileID: 0}
+  e2Level: 1
+  e3Active: 0
+  essence3: {fileID: 0}
+  e3Level: 0
+  relationships:
+  - {fileID: 11400000, guid: 6bbf205feeea8364d9f005b7e9b66f34, type: 2}
+  - {fileID: 11400000, guid: 6bbf205feeea8364d9f005b7e9b66f34, type: 2}
+  - {fileID: 11400000, guid: 6bbf205feeea8364d9f005b7e9b66f34, type: 2}
+  - {fileID: 11400000, guid: 6bbf205feeea8364d9f005b7e9b66f34, type: 2}
